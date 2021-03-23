@@ -1,0 +1,22 @@
+div {
+    padding: 2rem;
+    margin: 2rem;
+    display: inline-block;
+    color: white
+}
+
+.non-div {
+    background-color: black;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue { 
+    background-color: blue;
+}
